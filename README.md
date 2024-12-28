@@ -16,7 +16,6 @@ Ensure you have the following installed:
 
 ### Cloning the Repository
 To clone this repository, run the following command:
-```bash
 git clone https://github.com/syifa1612/CompanyStructure_Assignment2.git
 
 ### Classes Implemented
