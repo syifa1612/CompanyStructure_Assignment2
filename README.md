@@ -33,7 +33,7 @@ The `CompanyStructure` class provides testing functionality to:
 - Assign employees to managers.
 - Test functionality like team status and bonus approvals.
 
-## How to Run
+## How to Run in Terminal
 1. Compile all files:
    javac *.java
 2. Run the CompanyStructure class:
